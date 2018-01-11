@@ -29,7 +29,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 * Lars Ailo Bongo (larsab@cs.uit.no, A257)
 * Tore Brox-Larsen (tore@cs.uit.no, A254)
 * Lukasz Sergiusz Michalik (-, -)
-* Nikolai Magnussen (nikolai.a.magnussen@uit.no, -)
+* Nikolai Magnussen (nikolai.a.magnussen@uit.no, A145)
 * Isak Sunde Singh (-, -)
 * Ingeborg Ytrehus (-, -)
 
