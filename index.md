@@ -30,7 +30,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 * Lukasz Sergiusz Michalik (lukasz.s.michalik@uit.no, A252)
 * Nikolai Magnussen (nikolai.a.magnussen@uit.no, A145)
 * Isak Sunde Singh (isak.s.singh@uit.no, A148)
-* Ingeborg Ytrehus (-, -)
+* Ingeborg Ytrehus (ingeborg.ytrehus@uit.no, -)
 
 ## Lecture plan (will be updated)
 
