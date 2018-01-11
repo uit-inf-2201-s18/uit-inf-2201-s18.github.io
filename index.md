@@ -37,7 +37,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 
 | Lecture | Date | Subject	    | Readings  | Lecturer  |
 |---------|------|--------------|-----------|-----------|
-| L1  | 11.01.18 | Introduction | MOS 1.1 - 1.3  | Lars Ailo |
+| L1  | 11.01.18 | [Introduction](lectures/01-introduction.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
 | L2  | 16.01.18 | IA32 OS Support and Protection | MOS 1.4 - 1.5 | Tore |
 | L3  | 18.01.18 | OS Structure | MOS 1.6 - 1.7; 12 | Tore |
 | L4  | 23.01.18 | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
