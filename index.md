@@ -13,13 +13,12 @@ We use the [inf-2201-s18@list.uit.no](https://list.uit.no/sympa/info/inf-2201-s1
 
 We also have a Slack team [uit-inf-2201-s18](https://uit-inf-2201-s18.slack.com).
 
-
 We will use the following rooms:
 
 * Mondays, 10:15-14:00, TEO-H1 1.241
 * Tuesdays, 10:15-12:00, Lille Aud (REALF B203)
 * Wednesdays, 14:15-16:00, TEKNOBYGGET 1.023AUD
-* Thursdays, 12:15-14:00, Lille Aud (REALF B203)
+* Thursdays, 12:15-14:00, Store Aud (REALF B302)
 * Fridays, 12:15-18:00, TEO-H1 1.241
 
 Refer to the lecture and mandatory assignment plan, and e-mails, for which room is used when.
