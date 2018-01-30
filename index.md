@@ -30,7 +30,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 * Lukasz Sergiusz Michalik (lukasz.s.michalik@uit.no, A252)
 * Nikolai Magnussen (nikolai.a.magnussen@uit.no, A145)
 * Isak Sunde Singh (isak.s.singh@uit.no, A148)
-* Ingeborg Ytrehus (ingeborg.ytrehus@uit.no, -)
+* Ingeborg Ytrehus (ingeborg.ytrehus@uit.no, A145)
 
 ## Lecture plan (will be updated)
 
@@ -82,8 +82,8 @@ Note that we do not make these assignments publicly available.
 
 | Project |	Precepts | Desgin review | Due | Subject|
 |---------|----------|----------|----------|---------|
-| P1 	  | 17.01.18 | TBA      | 31.01.18 | Boot-up mechanism |
-| P2      | 31.01.18 | TBA      | 21.02.18 | Non-preemptive scheduling |
+| P1      | 17.01.18 | 24.01.18 | 31.01.18 | Boot-up mechanism |
+| P2      | 31.01.18 | 07.02.18 | 21.02.18 | Non-preemptive scheduling |
 | P3      | 21.02.18 | TBA      | 07.03.18 | Preemptive scheduling |
 | P4      | 08.03.18 | TBA      | 04.04.18 | IPC and process management |
 | P5      | 04.04.18 | TBA      | 25.04.18 | Virtual memory |
