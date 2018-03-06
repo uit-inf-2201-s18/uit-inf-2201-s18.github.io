@@ -85,6 +85,6 @@ Note that we do not make these assignments publicly available.
 | P1      | 17.01.18 | 24.01.18 | 31.01.18 | Boot-up mechanism |
 | P2      | 31.01.18 | 07.02.18 | 21.02.18 | Non-preemptive scheduling |
 | P3      | 21.02.18 | TBA      | 07.03.18 | Preemptive scheduling |
-| P4      | 08.03.18 | TBA      | 04.04.18 | IPC and process management |
+| P4      | 07.03.18 | TBA      | 04.04.18 | IPC and process management |
 | P5      | 04.04.18 | TBA      | 25.04.18 | Virtual memory |
 | P6      | 25.04.17 | TBA      | 23.05.18 | File system |
