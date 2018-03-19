@@ -7,7 +7,7 @@ title: Home
 
 Administrative course information is available [here](https://uit.no/utdanning/emner/emne/540538/inf-2201?ar=2018&semester=V)
 
-The github repository for this course is: [github.com/uit-inf-2201-s18/](https://github.com/uit-inf-2201-s18/)
+The github organization for this course is: [github.com/uit-inf-2201-s18/](https://github.com/uit-inf-2201-s18/)
 
 We use the [inf-2201-s18@list.uit.no](https://list.uit.no/sympa/info/inf-2201-s18) mailing list to send important information. PS: archived list mails are also located at the list site.
 
@@ -37,24 +37,23 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | Lecture | Date | Subject	    | Readings  | Lecturer  |
 |---------|------|--------------|-----------|-----------|
 | L1  | 11.01.18 | [Introduction](lectures/01-introduction.pptx) | MOS 1.1 - 1.3  | Lars Ailo |
-| L2  | 16.01.18 | IA32 OS Support and Protection | MOS 1.4 - 1.5 | Tore |
-| L3  | 18.01.18 | OS Structure | MOS 1.6 - 1.7; 12 | Tore |
-| L4  | 23.01.18 | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
-| L5  | 25.01.18 | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
-| -   | 30.01.18 | No lecture | - | - | 
-| L6  | - | Mutual Exclusion | MOS 2.2 - 2.3.6 | Tore |
-| L7  | - | Semaphores | MOS 2.5 - ?? | Tore |
-| L8  | - | Monitors  | MOS 2.3.4 - 2.3.5 | Tore |
-| L9  | - | Semaphores and Monitors | MOS 2.3.5 - 2.3.7 | Tore |
-| L10 | - | Thread Packages | MOS 2.2 | Lars Ailo |
+| L2  | 16.01.18 | IA32 OS Support (slides in Fronter) and Protection (slides in Fronter) | MOS 1.4 - 1.5 | Tore |
+| L3  | 18.01.18 | OS Structure (slides in Fronter) | MOS 1.6 - 1.7; 12 | Tore |
+| L4  | 23.01.18 | Processes, Non-Preemtive Scheduling (slides in Fronter) | MOS 2.1, 2.2 | Tore |
+| L5  | 25.01.18 | Threads, Critical Sections | MOS 2.4 - 2.5 (slides in Fronter) | Tore |
+| L6  | - | Preemtive Scheduling, Mutual Exclusion (slides in Fronter) | MOS 2.2 - 2.3.6 | Tore |
+| L7  | - | Semaphores (slides in Fronter) | MOS 2.5 | Tore |
+| L8  | - | Monitors (slides in Fronter)  | MOS 2.3.4 - 2.3.7 | Tore |
+| L9 | - | Thread Packages (slides in Fronter) | MOS 2.2 | Tore |
+| L10 | - | Message passing (slides in Fronter) | MOS 2.3.8 | Tore |
+| L11 | - | I/O Devices and Drivers (slides in Fronter) | MOS 5 | Tore |
+| L12 | - | Adress Translation, Paging (slides in Fronter) | MOS 3.1 - 3.3, 3.7| Tore |
+
+| L13 | 22.03.18 | Memory Management | MOS 3.4 | Lars Ailo |
+| L17 | 03.04.18 | Paging | MOS 3.5 - 3.9 | Lars Ailo |
+| L18 | - | VM Design | MOS 3.5 - 3.9 | Lars Ailo |
 | L11 | - | CPU Scheduling | MOS 2.4 | - |
 | L12 | - | Deadlocks | MOS 6 | - |
-| L13 | - | Message passing  | MOS 2.3.8 | - |
-| L14 | - | I/O Devices and Drivers | MOS 5 | Lars Ailo |
-| L15 | - | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Lars Ailo |
-| L16 | - | Memory Management | MOS 3.4 | Lars Ailo |
-| L17 | - | Paging | MOS 3.5 - 3.9 | Lars Ailo |
-| L18 | - | VM Design | MOS 3.5 - 3.9 | Lars Ailo |
 | L19 | - | Storage | MOS 5.4 | Lars Ailo |
 | L20 | - | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
 | L21 | - | File Systems II | MOS 4.1 - 4.6 | Lars Ailo |
