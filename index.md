@@ -83,4 +83,4 @@ Note that we do not make these assignments publicly available.
 | P3      | 21.02.18 | 28.02.18 | 07.03.18 | Preemptive scheduling |
 | P4      | 07.03.18 | 14.03.18 | 04.04.18 | IPC and process management |
 | P5      | 04.04.18 | 11.04.18 | 25.04.18 | Virtual memory |
-| P6      | 25.04.17 | 02.0.18  | 23.05.18 | File system |
+| P6      | 25.04.17 | 02.05.18 | 23.05.18 | File system |
