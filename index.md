@@ -48,15 +48,15 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L10 | - | Message passing (slides in Fronter) | MOS 2.3.8 | Tore |
 | L11 | - | I/O Devices and Drivers (slides in Fronter) | MOS 5 | Tore |
 | L12 | - | Adress Translation, Paging (slides in Fronter) | MOS 3.1 - 3.3, 3.7| Tore |
-| L13 | 22.03.18 | Memory Management | MOS 3.4 | Lars Ailo |
-| L14 | 05.04.18 | VM Design | MOS 3.5 - 3.9 | Lars Ailo |
-| L15 | 10.04.18 | CPU Scheduling | MOS 2.4 | - |
-| L16 | 12.04.18 | Deadlocks | MOS 6 | - |
-| L17 | 17.04.18 | Storage | MOS 5.4 | Lars Ailo |
-| L18 | 19.04.18 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
-| L19 | 26.04.18 | File Systems II | MOS 4.1 - 4.6 | Lars Ailo |
-| L20 | 03.05.18 | Security | MOS 9 | Lars Ailo |
-| L21 | 08.05.18 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+| L13 | 22.03.18 | [Paging and VM Design](lectures/13-Paging and VM Deisgn.pptx) | MOS 3.4 | Lars Ailo |
+| L14 | 05.04.18 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
+| L15, L16 | 10.04.18 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Lars Ailo |
+| L17 | 12.04.18 | Storage | MOS 5.4 | Lars Ailo |
+| L18 | 17.04.18 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
+| L19 | 19.04.18 | File Systems II | MOS 4.1 - 4.6 | Lars Ailo |
+| L20 | 26.04.18 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+| L21 | 03.05.18 | Security | MOS 9 | Lars Ailo |
+
 
 
 ## Readings
