@@ -50,8 +50,8 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L12 | - | Adress Translation, Paging (slides in Fronter) | MOS 3.1 - 3.3, 3.7| Tore |
 | L13 | 22.03.18 | [Paging and VM Design](lectures/13-Paging and VM Deisgn.pptx) | MOS 3.4 | Lars Ailo |
 | L14 | 05.04.18 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Lars Ailo |
-| L15, L16 | 10.04.18 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Lars Ailo |
-| L17 | 12.04.18 | Storage | MOS 5.4 | Lars Ailo |
+| L15, L16 | 10.04.18 | CPU Scheduling and Deadlocks (no slides) | MOS 2.4, 6 | Lars Ailo |
+| L17 | 12.04.18 | [Storage systems](lectures/17 - Storage Systems.pptx) | MOS 5.4 | Lars Ailo |
 | L18 | 17.04.18 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
 | L19 | 19.04.18 | File Systems II | MOS 4.1 - 4.6 | Lars Ailo |
 | L20 | 26.04.18 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
