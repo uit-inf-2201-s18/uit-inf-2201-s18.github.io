@@ -54,7 +54,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L17 | 12.04.18 | [Storage systems](lectures/17 - Storage Systems.pptx) | MOS 5.4 | Lars Ailo |
 | L18 | 17.04.18 | [File Systems](lectures/18 - File Systems.pptx) I | MOS 4.1 - 4.6 | Lars Ailo |
 | L19 | 19.04.18 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
-| L20 | 26.04.18 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+| L20 | 26.04.18 | [Virtual Machines](20 - Virtual Machines.pptx) and [Containers](20 - Containers.pptx) | MOS 7 | Lars Ailo |
 | L21 | TBD      | Security | MOS 9 | Nikolai |
 
 
